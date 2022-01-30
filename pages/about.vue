@@ -1,12 +1,12 @@
 <template>
   <div class="p-5">
-    HOME
+    ABOUT
   </div>
 </template>
 
 <script lang="ts" script>
 
 definePageMeta({
-  title: "Home"
+  title: "About"
 });
 </script>
